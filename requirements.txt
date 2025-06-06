@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+psycopg2-binary
+passlib[bcrypt]
+python-jose[cryptography]
+openai
+weasyprint
+jinja2
+stripe
